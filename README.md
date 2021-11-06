@@ -2,15 +2,13 @@
 
 <p align="center">
   <samp>
-    Welcome to my page! </br> I'm Lucas Piera, a Software Developer from <img src="https://img.icons8.com/color/48/000000/poland-circular.png" width="13"/> <b>Poland</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. 
+    Welcome to my page! </br> I'm Lucas Piera, a Software Developer from <img src="https://img.icons8.com/color/48/000000/poland-circular.png" width="13"/> <b>Poland</b>
+  </samp>
+  <samp>
+    Here is my [https://piera.tech](blog)! 
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    Here is my [blog](https://piera.tech)! 
-  </samp>
-</p>
 
 📈 my github stats
 
