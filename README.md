@@ -5,7 +5,7 @@
     Welcome to my page! </br> I'm Lucas Piera, a Software Developer from <img src="https://img.icons8.com/color/48/000000/poland-circular.png" width="13"/> <b>Poland</b>
   </samp>
   <samp>
-    Here is my [https://piera.tech](blog)! 
+    Here is my [blog](https://piera.tech)! 
   </samp>
 </p>
 
